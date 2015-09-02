@@ -20,6 +20,7 @@ Overview text goes here. Overview text goes here. Overview text goes here. Overv
 * [ ] Begin assembly of README.md file
 * [ ] Create Waffle.io taskboard
 * [ ] Conceptualize index page of website via paper mockups
+        https://cloud.githubusercontent.com/assets/14003301/9623428/1606f61a-50f5-11e5-8f25-e5a84abfa7ba.JPG
 
 ## Release Notes
 **v0.1**
