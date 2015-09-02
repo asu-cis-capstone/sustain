@@ -1,7 +1,7 @@
 # Sustain
 
 ## Overview
-Sustain is a web based application for Campus Student Sustainability Initiatives. Sustain will be revamping the current website by updating the visual design appeal and simplicity. Not only will Sustain be “redoing” a site but will include digital marketing (if time allows) and if possible will take on other sustainability clubs who need assistance with web development.Campus Student Sustainability Initiatives is an ASU student ran club that incorporates volunteering opportunities and sustainability projects on campus.
+Sustain is a web based application for Campus Student Sustainability Initiatives. Sustain will be revamping the current website by updating the visual design, appeal, and simplicity. Not only will Sustain be “revamping” the site but will also include digital marketing elements, search engine optimization, and (if time allows) possibly take on other sustainability clubs who need assistance with web development. Campus Student Sustainability Initiatives is an ASU student organization that incorporates volunteering opportunities and sustainability initiative on campus.
 
 ## Install Instructions
 • Step 1 <br />
@@ -19,6 +19,7 @@ Sustain is a web based application for Campus Student Sustainability Initiatives
 * [x] Create Waffle.io taskboard (https://waffle.io/asu-cis-capstone/sustain)
 * [ ] Conceptualize index page of website via paper mockups
         https://cloud.githubusercontent.com/assets/14003301/9623428/1606f61a-50f5-11e5-8f25-e5a84abfa7ba.JPG
+        https://cloud.githubusercontent.com/assets/14003163/9647359/ff1e2986-5190-11e5-98c8-a663f6e81d73.jpg
 
 ## Release Notes
 **v0.1**
