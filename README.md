@@ -3,7 +3,7 @@
 ## Overview
 Sustain is a web based application for Campus Student Sustainability Initiatives. Sustain will be revamping the current website by updating the visual design appeal and simplicity. Not only will Sustain be “redoing” a site but will include digital marketing (if time allows) and if possible will take on other sustainability clubs who need assistance with web development.Campus Student Sustainability Initiatives is an ASU student ran club that incorporates volunteering opportunities and sustainability projects on campus.
 
-## Install Instructions/ High Level Tasks
+## Install Instructions
 • Step 1 <br />
 • Step 2 <br />
 • Step 3 <br />
