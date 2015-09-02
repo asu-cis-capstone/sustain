@@ -19,6 +19,7 @@ Overview text goes here. Overview text goes here. Overview text goes here. Overv
 * [ ] Define project by developing an Overview/Elevator Pitch
 * [ ] Begin assembly of README.md file
 * [ ] Create Waffle.io taskboard
+*       https://waffle.io/asu-cis-capstone/sustain
 * [ ] Conceptualize index page of website via paper mockups
         https://cloud.githubusercontent.com/assets/14003301/9623428/1606f61a-50f5-11e5-8f25-e5a84abfa7ba.JPG
 
