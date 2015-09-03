@@ -21,7 +21,7 @@ Sustain is a web based application for Campus Student Sustainability Initiatives
         - https://cloud.githubusercontent.com/assets/14003301/9623428/1606f61a-50f5-11e5-8f25-e5a84abfa7ba.JPG<br />
         - https://cloud.githubusercontent.com/assets/14003163/9647359/ff1e2986-5190-11e5-98c8-a663f6e81d73.jpg<br />
         - https://cloud.githubusercontent.com/assets/13956069/9649756/e4a3dd54-51ad-11e5-81ee-c9bd3014d930.jpg<br />
-        - Josh LINK HERE <br />
+        - https://cloud.githubusercontent.com/assets/14003358/9651886/e639c4fe-51ca-11e5-8da7-9cb993107bf3.JPG <br />
         - Erica LINK HERE
 
 ## Release Notes
