@@ -1,7 +1,7 @@
 # Sustain
 
 ## Overview
-Sustain is a web based application for Campus Student Sustainability Initiatives. Campus Student Sustainability Initiatives (CSSI) is an ASU student organization that incorporates volunteering opportunities and sustainability initiative on campus. Sustain will be revamping the current website for CSSI by updating the visual design, appeal, and simplicity. Not only will Sustain be “revamping” the site, but will also incorporate digital marketing elements, search engine optimization, and (if time allows) taking on other sustainability clubs who need assistance with web development. 
+Sustain is a website for Campus Student Sustainability Initiatives. Campus Student Sustainability Initiatives (CSSI) is an ASU student organization that incorporates volunteering opportunities and sustainability initiative on campus. Sustain will be revamping the current website for CSSI by updating the visual design, appeal, and simplicity. Not only will Sustain be “revamping” the site, but will also incorporate digital marketing elements, search engine optimization, and (if time allows) taking on other sustainability clubs who need assistance with web development. 
 
 ## Install Instructions
 • Step 1 <br />
