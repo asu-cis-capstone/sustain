@@ -3,12 +3,14 @@
 ## Overview
 Sustain is a website for Campus Student Sustainability Initiatives. Campus Student Sustainability Initiatives (CSSI) is an ASU student organization that incorporates volunteering opportunities and sustainability initiative on campus. Sustain will be revamping the current website for CSSI by updating the visual design, appeal, and simplicity. Not only will Sustain be “revamping” the site, but will also incorporate digital marketing elements, search engine optimization, and (if time allows) taking on other sustainability clubs who need assistance with web development. 
 
-## Install Instructions
-• Step 1 <br />
-• Step 2 <br />
-• Step 3 <br />
-• Step 4 <br />
-• Step 5 <br />
+## Edit Instructions
+• Step 1: Go to https://cssi.asu.edu:2222/ and enter proper credentials <br />
+• Step 2: Click the "Files" buton on the top navigation bar <br />
+• Step 3: Select the index.html file and download to your local machine and open with Notepad ++<br />
+• Step 4: Use filezilla to load the desired image to the images folder on the server **be sure to remember the name**<br /> 
+• Step 5: Locate the comment section indicating where photo marquee is located and edit the image reference<br />
+• Step 6: Save the changes on your notepad++ file and re-upload the file (via filezilla) to the server<br />
+
 
 ## To-Do List
 
