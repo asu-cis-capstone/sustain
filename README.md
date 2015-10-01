@@ -49,7 +49,7 @@ Sustain is a website for Campus Student Sustainability Initiatives. Campus Stude
 * Acquired basic website template
 * Manipulated basic elements and asthetics based on client specifications
 * Added Asu tool bar to top index.html file
-* Updated Waffle.io taskboard
+* Updated Waffle.io taskboard - shows business end tasks as well.
 
 
 ## Contributors
