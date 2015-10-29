@@ -36,6 +36,16 @@ Sustain is a website for Campus Student Sustainability Initiatives. Campus Stude
 * [x] Start to create site ERD and flow
 * [x] Continue to gather content from client for the site
 * [x] Update the Waffle.io taskboard
+* 
+**[I] Release 0.3 - October 29, 2015**
+* [x] Connect CSSI survey monkey newsletter with the site
+* [x] Embed a Google Calander for upcoming events on the site
+* [x] Create a leadership page with images of CSSI group
+* [x] Comment CSS HTML and JS files so that the client can make simple changes
+* [x] Incorporate a form for the site that allows user to specify reason
+* [x] Add a google location for "The Basement" so users know where to go for meetings
+* [x] Continue to gather content from client for the site
+* [x] Update the Waffle.io taskboard
 
 ## Release Notes
 **v0.1**
@@ -50,6 +60,16 @@ Sustain is a website for Campus Student Sustainability Initiatives. Campus Stude
 * Manipulated basic elements and asthetics based on client specifications
 * Added Asu tool bar to top index.html file
 * Updated Waffle.io taskboard - shows business end tasks as well.
+
+**v0.3**
+* Continue to create navigable site
+* 
+* Comment CSS, HTML, JS files
+* Add multiple graphic sections for leadership images
+* Create user form to send requests to the club
+* Connect survey monkey link to the site
+* Gather content (images and text) for the site
+* Updated Waffle.io taskboard
 
 
 ## Contributors
