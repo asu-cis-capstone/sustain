@@ -39,7 +39,7 @@ http://www.sxbxrs.com/cssi/index.html
 * [x] Start to create site ERD and flow
 * [x] Continue to gather content from client for the site
 * [x] Update the Waffle.io taskboard
-* 
+ 
 **[I] Release 0.3 - October 29, 2015**
 * [x] Connect CSSI survey monkey newsletter with the site
 * [x] Embed a Google Calander for upcoming events on the site
