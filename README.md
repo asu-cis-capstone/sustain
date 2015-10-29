@@ -3,6 +3,9 @@
 ## Overview
 Sustain is a website for Campus Student Sustainability Initiatives. Campus Student Sustainability Initiatives (CSSI) is an ASU student organization that incorporates volunteering opportunities and sustainability initiative on campus. Sustain will be revamping the current website for CSSI by updating the visual design, appeal, and simplicity. Not only will Sustain be “revamping” the site, but will also incorporate digital marketing elements, search engine optimization, and (if time allows) taking on other sustainability clubs who need assistance with web development. 
 
+## Current Hosting
+http://www.sxbxrs.com/cssi/index.html
+
 ## Edit Instructions
 • Step 1: Go to https://cssi.asu.edu:2222/ and enter proper credentials <br />
 • Step 2: Click the "Files" buton on the top navigation bar <br />
