@@ -42,13 +42,33 @@ http://www.sxbxrs.com/cssi/index.html
  
 **[I] Release 0.3 - October 29, 2015**
 * [x] Connect CSSI survey monkey newsletter with the site
-* [x] Embed a Google Calander for upcoming events on the site
 * [x] Create a leadership page with images of CSSI group
 * [x] Comment CSS HTML and JS files so that the client can make simple changes
 * [x] Incorporate a form for the site that allows user to specify reason
 * [x] Add a google location for "The Basement" so users know where to go for meetings
 * [x] Continue to gather content from client for the site
 * [x] Update the Waffle.io taskboard
+
+**User Feedback
+*Background: Had random end users (friends, coworkers, and family) navigate through the CSSI sample website
+to evaluate the styling, functionality, and various features to seek feedback on some positives and negatives
+associated with the site. Below are some of the comments that we received related to the web design.
+
+* Positives:
+* [1] Color scheme fit well with the other features of site and for the club's theme
+* [2] Text font was easily readable and seemed to fit, wasn't too fancy
+* [3] Site wasn't too "busy". Wasn't overwhellmed by content
+* [4] Navagation bar was sleek and easy to use, enjoyed that text changes color upon hover
+* [5] Enjoyed the asu search bar, made the site feel more official
+* [6] Google map feature was a nice touch to site
+ 
+*Negatives:
+* [1] Wished that content had been actual content, even if it wasn't accurate
+* [2] Difficult to navigate the ABOUT tab in the top tool bar
+* [3] Seemed that it would be difficult to locate certain content when site was live, had too many similar tabs
+* [4] wished that certain content was spaced out better to fill the entire page
+* [5] Pictures on home marquee are not the best quality
+* [6] Text in the scroll bar for "what CSSI is" is hard to read, make it bold
 
 ## Release Notes
 **v0.1**
@@ -66,7 +86,6 @@ http://www.sxbxrs.com/cssi/index.html
 
 **v0.3**
 * Continue to create navigable site
-* 
 * Comment CSS, HTML, JS files
 * Add multiple graphic sections for leadership images
 * Create user form to send requests to the club
