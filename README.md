@@ -72,11 +72,13 @@ associated with the site. Below are some of the comments that we received relate
 * 
 
 **[I] Release 0.4 - November 12,2015**
-* [x]
-* [x]
-* [x]
-* [x]
-* [x]
+* [x] Implemented content provided by Client
+* [x] Narrowed amount of pages down to an even smaller amount to eliminate unneccessary content
+* [x] Tailored color palette to group's theme
+* [x] Added new images to website
+* [x] Created a PHP contact form
+* [x] Added embeded Google calendar and maps
+* [x] Continue to gather info from client
 
 ## Release Notes
 **v0.1**
@@ -102,9 +104,13 @@ associated with the site. Below are some of the comments that we received relate
 * Updated Waffle.io taskboard
 
 **v0.4**
-*
-*
-*
+* Implemented content provided by Client
+* Narrowed amount of pages down to an even smaller amount to eliminate unneccessary content
+* Tailored color palette to group's theme
+* Added new images to website
+* Created a PHP contact form
+* Added embeded Google calendar and maps
+* ontinue to gather info from client
 
 
 
