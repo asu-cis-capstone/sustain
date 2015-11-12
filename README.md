@@ -69,6 +69,14 @@ associated with the site. Below are some of the comments that we received relate
 * [4] wished that certain content was spaced out better to fill the entire page
 * [5] Pictures on home marquee are not the best quality
 * [6] Text in the scroll bar for "what CSSI is" is hard to read, make it bold
+* 
+
+**[I] Release 0.4 - November 12,2015**
+* [x]
+* [x]
+* [x]
+* [x]
+* [x]
 
 ## Release Notes
 **v0.1**
@@ -92,6 +100,12 @@ associated with the site. Below are some of the comments that we received relate
 * Connect survey monkey link to the site
 * Gather content (images and text) for the site
 * Updated Waffle.io taskboard
+
+**v0.4**
+*
+*
+*
+
 
 
 ## Contributors
