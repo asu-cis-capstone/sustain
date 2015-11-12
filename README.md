@@ -80,6 +80,8 @@ associated with the site. Below are some of the comments that we received relate
 * [x] Added embeded Google calendar and maps
 * [x] Continue to gather info from client
 
+** Testing Plan -> Selenium
+
 ## Release Notes
 **v0.1**
 * Developed an Overview of project
